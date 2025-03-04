@@ -1,4 +1,4 @@
-# 할인하는 스티커 가격 예측 (Backpack Prediction Challenge)  
+# 할인 스티커 가격 예측 (Backpack Prediction Challenge)  
 
 ----------------------------------------------------
 
